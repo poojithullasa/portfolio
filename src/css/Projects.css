@@ -1,0 +1,19 @@
+.flexwrap{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.link{
+    text-align: center;
+    padding: 3%;
+}
+
+.project,.project>div,.project>p,div>h3{
+    background-color: #eeeeee;
+    width: 100%;
+}
+.project{
+    margin: 30px;
+    width: 25%;
+    text-align: center;
+}

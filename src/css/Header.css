@@ -1,0 +1,31 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  position: sticky;
+  font-size: larger;
+  font-weight: bolder;
+}
+
+li a {
+  display: block;
+  color: black;
+  padding: 12px 20px 12px 20px;
+}
+
+#left:hover,
+.right:hover {
+  background-color: orange;
+}
+
+#left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+.active{
+  background-color: orange;
+}
