@@ -23,18 +23,18 @@ function Projects() {
           <hr />
           <div className="link">
             <a
-              href="https://poojithullasa.github.io/gsearch/"
               target="_blank"
               rel="noopener noreferrer"
+              href="https://poojithullasa.github.io/gsearch/"
             >
               Try Demo
             </a>
           </div>
           <div className="link">
             <a
-              href="https://github.com/poojithullasa/gsearch"
               target="_blank"
               rel="noopener noreferrer"
+              href="https://github.com/poojithullasa/gsearch"
             >
               Github Repo
             </a>
@@ -50,18 +50,18 @@ function Projects() {
           <hr />
           <div class="link">
             <a
-              href="https://poojithullasa.github.io/shopping/"
               target="_blank"
               rel="noopener noreferrer"
+              href="https://poojithullasa.github.io/shopping/"
             >
               Try Demo
             </a>
           </div>
           <div class="link">
             <a
-              href="https://github.com/poojithullasa/shopping"
               target="_blank"
               rel="noopener noreferrer"
+              href="https://github.com/poojithullasa/shopping"
             >
               Github Repo
             </a>
@@ -77,18 +77,18 @@ function Projects() {
           <hr />
           <div class="link">
             <a
-              href="https://poojithullasa.github.io/portfolio/"
               target="_blank"
               rel="noopener noreferrer"
+              href="https://poojithullasa.github.io/portfolio/"
             >
               Try Demo
             </a>
           </div>
           <div class="link">
             <a
-              href="https://github.com/poojithullasa/portfolio"
               target="_blank"
               rel="noopener noreferrer"
+              href="https://github.com/poojithullasa/portfolio"
             >
               Github Repo
             </a>
