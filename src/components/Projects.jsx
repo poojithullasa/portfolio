@@ -1,5 +1,4 @@
 import React from "react";
-import { Link } from "react-router-dom";
 import "../css/Projects.css";
 
 function Projects() {
@@ -23,22 +22,22 @@ function Projects() {
           </p>
           <hr />
           <div className="link">
-            <Link
-              to="https://poojithullasa.github.io/gsearch/"
+            <a
+              href="https://poojithullasa.github.io/gsearch/"
               target="_blank"
               rel="noopener noreferrer"
             >
               Try Demo
-            </Link>
+            </a>
           </div>
           <div className="link">
-            <Link
-              to="https://github.com/poojithullasa/gsearch"
+            <a
+              href="https://github.com/poojithullasa/gsearch"
               target="_blank"
               rel="noopener noreferrer"
             >
               Github Repo
-            </Link>
+            </a>
           </div>
         </div>
         <div className="project">
@@ -50,22 +49,22 @@ function Projects() {
           </p>
           <hr />
           <div class="link">
-            <Link
-              to="https://poojithullasa.github.io/shopping/"
+            <a
+              href="https://poojithullasa.github.io/shopping/"
               target="_blank"
               rel="noopener noreferrer"
             >
               Try Demo
-            </Link>
+            </a>
           </div>
           <div class="link">
-            <Link
-              to="https://github.com/poojithullasa/shopping"
+            <a
+              href="https://github.com/poojithullasa/shopping"
               target="_blank"
               rel="noopener noreferrer"
             >
               Github Repo
-            </Link>
+            </a>
           </div>
         </div>
         <div className="project">
@@ -77,22 +76,22 @@ function Projects() {
           </p>
           <hr />
           <div class="link">
-            <Link
-              to="https://poojithullasa.github.io/portfolio/"
+            <a
+              href="https://poojithullasa.github.io/portfolio/"
               target="_blank"
               rel="noopener noreferrer"
             >
               Try Demo
-            </Link>
+            </a>
           </div>
           <div class="link">
-            <Link
-              to="https://github.com/poojithullasa/portfolio"
+            <a
+              href="https://github.com/poojithullasa/portfolio"
               target="_blank"
               rel="noopener noreferrer"
             >
               Github Repo
-            </Link>
+            </a>
           </div>
         </div>
       </div>
