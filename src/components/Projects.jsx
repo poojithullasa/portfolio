@@ -24,8 +24,8 @@ function Projects() {
                 <div className="project">
                     <h3>Portfolio</h3><hr />
                     <p>This individual project is to make a Portfolio using reactjs. Currently you are viewing the live demo of my Portfolio.</p><hr />
-                    <div class="link"><Link to="https://poojithullasa.github.io/poojith/" >Try Demo</Link></div>
-                    <div class="link"><Link to="https://github.com/poojithullasa/poojith" >Github Repo</Link></div>
+                    <div class="link"><Link to="https://poojithullasa.github.io/portfolio/" >Try Demo</Link></div>
+                    <div class="link"><Link to="https://github.com/poojithullasa/portfolio" >Github Repo</Link></div>
                 </div>
             </div>
         </div>
