@@ -12,7 +12,11 @@ const Header = () => {
             </NavLink>
           </li>
           <li className="right">
-            <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/13L9l0xLvGwgLRnSIBk1TBFiWzVAUHIYu/view?usp=sharing">
+            <a
+              target="_blank"
+              rel="noopener noreferrer"
+              href="https://drive.google.com/file/d/13L9l0xLvGwgLRnSIBk1TBFiWzVAUHIYu/view?usp=sharing"
+            >
               Resume
             </a>
           </li>

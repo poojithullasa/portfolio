@@ -33,8 +33,8 @@ class Contact extends React.Component {
 
   render() {
     return (
-      <div className="contact" style={{margin:"6% 20%"}}>
-          <h1 style={{textAlign:"center"}}>Contact Me</h1>
+      <div className="contact" style={{ margin: "6% 20%" }}>
+        <h1 style={{ textAlign: "center" }}>Contact Me</h1>
         <div className="App">
           <form
             id="contact-form"
